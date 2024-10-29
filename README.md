@@ -3,9 +3,10 @@
 > A Streamlit app to store all your personal links, similar to [Linktr.ee](https://linktr.ee/).
 
 # Demo App 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://linktree-clone-inonzmwvngkdpcfctwbggr.streamlit.app/#gowri-namratha-meedinti-cs-grad)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://linktree-clone-namratha.streamlit.app/)
 
-<img width="741" alt="Screenshot 2024-10-29 at 1 11 06 AM" src="https://github.com/user-attachments/assets/34310def-3745-4308-8d8e-519b93f54f3b">
+<img width="744" alt="Screenshot 2024-10-29 at 8 33 12 PM" src="https://github.com/user-attachments/assets/1ab314c9-f53d-4251-a139-7a9b4bf9c830">
+
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://linktree-clone-inonzmwvngkdpcfctwbggr.streamlit.app/#gowri-namratha-meedinti-cs-grad)
 
