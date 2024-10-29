@@ -18,6 +18,16 @@ Follow these steps to set up your own Streamlit links page:
 
 **Step 2**: Customize your links page by editing the `streamlit_app.py` file:
 
+**Step 3**: Deploy to Streamlit Cloud
+
+1. Go to [Streamlit Cloud](https://streamlit.io/cloud) and log in to your account.
+2. Click on the **New app** button.
+3. Select the repository you created in the previous steps.
+4. Click on the **Deploy!** button.
+
+After a few moments, your new **links page** should be accessible.
+
+
 ```python
 import streamlit as st
 from st_functions import st_button, load_css
@@ -44,14 +54,7 @@ st_button('linkedin', 'https://www.linkedin.com/in/namrathameedinti', 'Connect o
 # Email Button
 st_button('email', 'mailto:gm568@cornell.edu', 'Email Me', icon_size)
 
-**Step 3**: Deploy to Streamlit Cloud
 
-1. Go to [Streamlit Cloud](https://streamlit.io/cloud) and log in to your account.
-2. Click on the **New app** button.
-3. Select the repository you created in the previous steps.
-4. Click on the **Deploy!** button.
-
-After a few moments, your new **links page** should be accessible.
 
 
 
